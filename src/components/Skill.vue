@@ -29,7 +29,7 @@ export default {
       columns: [
         {
           field: 'category',
-          label: 'CATEGORY',
+          label: 'CATEGORY'
         },
         {
           field: 'keyword',
