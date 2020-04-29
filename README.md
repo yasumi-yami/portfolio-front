@@ -1,6 +1,6 @@
 # portfolio-front
 
-> A Vue.js project
+> A Vue.js project for yasumiyami's portfolio
 
 ## Build Setup
 
