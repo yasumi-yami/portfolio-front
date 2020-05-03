@@ -1,5 +1,5 @@
 <template>
-    <b-navbar type="is-light">
+    <b-navbar type="is-light" class="is-fixed-top">
         <template slot="end">
             <b-navbar-item href="#top">
                 Top
