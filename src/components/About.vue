@@ -13,7 +13,7 @@
             <p>やすみやみ<a href="https://twitter.com/YamiYasumi">@YasumiYami</a></p>
             <p>Tech系Virtual YouTuber(志望)です。</p>
             <p>技術を解説してみたり、ライブコーディングしてみたり、</p>
-            <p>たまにゲーム配信したりします。</p>
+            <p>たまにゲーム配信してみたりします。</p>
             <p>ゲーム系メガベンチャー出身、Fintech領域のWebエンジニア。</p>
           </div>
         </div>
