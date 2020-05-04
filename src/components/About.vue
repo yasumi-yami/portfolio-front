@@ -4,15 +4,15 @@
       <div class="container">
         <h3 class="title">About</h3>
         <div class="columns">
-          <div class="column is-3">
+          <div class="column is-4">
             <figure class="image is-128x128 icon-centered" position="is-centered">
               <img class="is-rounded image-center" position="is-centered" src="@/assets/icon.png"/>
             </figure>
           </div>
           <div class="column text-column">
             <p>やすみやみ<a href="https://twitter.com/YamiYasumi">@YasumiYami</a></p>
-            <p>Tech系VTuber(志望)です</p>
-            <p>技術を解説したりライブコーディングしたり、</p>
+            <p>Tech系Virtual YouTuber(志望)です。</p>
+            <p>技術を解説してみたり、ライブコーディングしてみたり、</p>
             <p>たまにゲーム配信したりします。</p>
             <p>ゲーム系メガベンチャー出身、Fintech領域のWebエンジニア。</p>
           </div>
