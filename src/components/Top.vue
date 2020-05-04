@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">YasumiYa.me</h1>
-        <h2 class="subtitle">Techinical Virtual Youtuber/Web Engineer</h2>
+        <h2 class="subtitle">Techinical Virtual Youtuber<br>Web Engineer</h2>
       </div>
     </div>
   </section>
