@@ -4,7 +4,7 @@
     <top></top>
     <about></about>
     <skill></skill>
-    <work></work>
+    <certificates></certificates>
     <social></social>
   </div>
 </template>
@@ -14,8 +14,8 @@ import navbar from './navbar'
 import top from './top'
 import about from './about'
 import skill from './skill'
-import work from './work'
 import social from './social'
+import certificates from './certificates'
 
 export default {
   name: 'Main',
@@ -24,8 +24,8 @@ export default {
     top: top,
     about: about,
     skill: skill,
-    work: work,
-    social: social
+    social: social,
+    certificates: certificates
   },
   data () {
     return {}

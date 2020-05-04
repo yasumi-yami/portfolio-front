@@ -1,23 +1,28 @@
 <template>
-    <b-navbar type="is-light" class="is-fixed-top">
-        <template slot="end">
-            <b-navbar-item href="#top">
-                Top
-            </b-navbar-item>
-            <b-navbar-item href="#about">
-                About
-            </b-navbar-item>
-            <b-navbar-item href="#skill">
-                Skill
-            </b-navbar-item>
-            <b-navbar-item href="#work">
-                Work
-            </b-navbar-item>
-            <b-navbar-item href="#social">
-                Social
-            </b-navbar-item>
-        </template>
-    </b-navbar>
+  <b-navbar type="is-light" class="is-fixed-top">
+    <template slot="start">
+      <b-navbar-item href="">
+        YasumiYa.me
+      </b-navbar-item>
+    </template>
+    <template slot="end">
+      <b-navbar-item href="#top">
+        Top
+      </b-navbar-item>
+      <b-navbar-item href="#about">
+        About
+      </b-navbar-item>
+      <b-navbar-item href="#skill">
+        Skill
+      </b-navbar-item>
+      <b-navbar-item href="#certificates">
+        Certificates
+      </b-navbar-item>
+      <b-navbar-item href="#social">
+        Social
+      </b-navbar-item>
+    </template>
+  </b-navbar>
 </template>
 
 <script>

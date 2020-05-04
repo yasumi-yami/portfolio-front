@@ -1,11 +1,34 @@
 <template>
-  <section class="section" id="social">
-    <div class="container">
-      <div class="section-heading">
+  <div class="hero is-fullheight" id="social">
+    <div class="hero-body">
+      <div class="container">
         <h3 class="title">Social</h3>
+        <div class="level">
+          <div class="level-item">
+            <a href="https://github.com/yasumi-yami">
+              <figure class="image is-64x64">
+                <img src="@/assets/github.png"/>
+              </figure>
+            </a>
+          </div>
+          <div class="level-item">
+            <a href="https://twitter.com/YamiYasumi">
+              <figure class="image is-64x64">
+                <img src="@/assets/twitter.png"/>
+              </figure>
+            </a>
+          </div>
+          <div class="level-item">
+            <a href="https://www.youtube.com/channel/UCkLqZyQsxTSoqpAL51418cQ">
+              <figure class="image is-64x64">
+                <img src="@/assets/youtube.png"/>
+              </figure>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
-  </section>
+  </div>
 </template>
 
 <script>
