@@ -4,9 +4,9 @@
       <div class="container">
         <h3 class="title">Skill</h3>
         <div class="container">
-          <p>サーバーサイドの開発技術は一通りそこそこ。</p>
+          <p>サーバーサイドの技術は一通りそこそこ。</p>
           <p>インフラぼちぼち、フロントちょびちょび。</p>
-          <p>その他遊び程度に色々ちょっと触ってみたり。</p>
+          <p>その他遊び程度に色々触ってみたり。</p>
           <p>&nbsp;</p>
         </div>
         <div class="tile is-ancestor text-column">
